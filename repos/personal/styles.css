@@ -9,6 +9,7 @@ li{
 .header-item{
     border: 1px solid blue; 
     display: inline-flex;
+    flex-shrink: 0;
     gap: 24px;
 }
   
