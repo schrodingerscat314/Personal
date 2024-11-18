@@ -10,7 +10,6 @@ li{
     border: 1px solid blue; 
     display: inline-flex;
     gap: 24px;
-    justify-content: space-evenly;
 }
   
 
@@ -20,4 +19,5 @@ li{
     align-items: center;
     justify-content: center;
     gap: 8px;
+    background-color: rgb(207, 239, 248);
 }
