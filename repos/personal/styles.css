@@ -1,0 +1,12 @@
+*{
+    border: 1px solid red;
+}
+
+li{
+    list-style-type: none
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+}
