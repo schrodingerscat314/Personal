@@ -6,8 +6,18 @@ li{
     list-style-type: none
 }
 
-.header{
-    /* border: 1px solid blue; */
+.header-item{
+    border: 1px solid blue; 
     display: inline-flex;
     gap: 24px;
+    justify-content: space-evenly;
+}
+  
+
+.header{
+    border: 1px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
 }
