@@ -2,8 +2,17 @@
     /* border: 1px solid red; */
 }
 
-li{
-    list-style-type: none;
+#list{
+    display: flex;
+    padding: 0;
+    list-style: none;
+}
+
+#list > li{
+    font-family:'Times New Roman', Times, serif;
+    flex: auto;
+    text-align: center;
+     
 }
 
 .header-item{
