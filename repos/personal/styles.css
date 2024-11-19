@@ -44,6 +44,7 @@
 .paragraph{
     text-wrap: balance;
     text-align: left;
+    line-height: 2;
 }
 
 .title{
