@@ -40,3 +40,20 @@
     width: auto;
     background-color: rgb(37, 156, 224);
 }
+
+.paragraph{
+    text-wrap: balance;
+    text-align: left;
+}
+
+.title{
+    text-align: left;
+}
+
+.content{
+    /* border: 1px solid purple; */
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    
+}
