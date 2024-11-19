@@ -3,22 +3,31 @@
 }
 
 li{
-    list-style-type: none
+    list-style-type: none;
 }
 
 .header-item{
-    border: 1px solid blue; 
+    /* border: 1px solid blue; */
     display: inline-flex;
     flex-shrink: 0;
-    gap: 24px;
+    gap: 36px;
 }
   
 
 .header{
-    border: 1px solid green;
+    /* border: 1px solid green; */
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 8px;
+    gap: 36px;
     background-color: rgb(207, 239, 248);
+}
+
+.image{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-shrink: 80;
+    height: 80px;
+    width: auto;
+    background-color: rgb(37, 156, 224);
 }
