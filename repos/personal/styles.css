@@ -48,7 +48,12 @@
 }
 
 .title{
+    display: flex;
     text-align: left;
+    background-color: rgb(219, 218, 218);
+    padding: 16px;
+    max-width: 1300px;
+
 }
 
 .content{
